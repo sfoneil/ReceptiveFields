@@ -1,6 +1,6 @@
 # ReceptiveFields
-MATLAB. Uses GUIDE syntax, can be updated to App Designer.
-See also included PDF of an exercise.
+MATLAB. Uses GUIDE syntax, can be updated to App Designer. It is designed as a class demo, some coding techniques are also demonstrated so some parts use different functions to do the same thing when only one might work best instead. See also included PDF for instructions and class exercise.
+
 Simulates the receptive fields (RF) corresponding to retinal ganglion cells/lateral geniculate nucleus (LGN) cells and visual cortex (V1). These RFs represent the neuronal responses to visual stimulus. This is intended to be an interactive demo and not a representation of actual cellular electrical responses.
 
 TEST MODE
